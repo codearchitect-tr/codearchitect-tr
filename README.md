@@ -1,16 +1,18 @@
-## Hi there 👋
+### Yazılım Mimarı | Sistem Tasarımcısı
 
-<!--
-**codearchitect-tr/codearchitect-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Karmaşık sistemleri, temel algoritmalarla çalışan canlı ve etkileşimli deneyimlere dönüştürüyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Konsept Projesi
+
+- **[LabyrinthOS](https://github.com/codearchitect-tr/labyrintos)** - Her seferinde rastgele bir labirent yaratan ve ardından bu labirenti **kendi kendine çözen** bir simülasyon. Algoritmik düşünmenin görsel bir kanıtı.
+
+---
+
+#### 🛠️ Teknik Yaklaşımlar
+
+- Prosedürel İçerik Üretimi (Procedural Generation)
+- Yol Bulma Algoritmaları (Pathfinding)
+- Durum Yönetimi (State Management)
+- Algoritmik Sanat (Algorithmic Art)
